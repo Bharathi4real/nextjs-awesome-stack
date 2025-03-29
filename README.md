@@ -5,21 +5,23 @@ A curated collection of tools, libraries, and resources for React and Next.js de
 ## 📂 Repository Structure
 ```
 nextjs-dev-hub/
-│── README.md             # Overview of the repo and resources
-│── LICENSE               # License information
-│── resources/            # Categorized collections
-│   ├── ui-libraries.md   # UI component libraries
-│   ├── design-systems.md # Design systems & templates
-│   ├── tools.md          # Dev tools & utilities
-│   ├── inspiration.md    # Design inspiration & references
-│── assets/               # Screenshots, previews, or images
-│── CONTRIBUTING.md       # Guidelines for adding new resources
-│── .gitignore            # Ignore unnecessary files
+│── README.md                 # Overview of the repo and resources
+│── LICENSE                   # License information
+│── resources/                # Categorized collections
+│   ├── ui-libraries.md       # UI component libraries
+│   ├── design-systems.md     # Design systems & templates
+│   ├── tools.md              # Dev tools & utilities
+│   ├── inspiration.md        # Design inspiration & references
+│   ├── learning-resources.md # Learning resources
+│── assets/                   # Screenshots, previews, or images
+│── CONTRIBUTING.md           # Guidelines for adding new resources
+│── .gitignore              # Ignore unnecessary files
 ```
 
 ## 📂 Categories
 
 ### UI Libraries & Components
+
 - [Origin UI](https://originui.com/)
 - [Aceternity UI](https://ui.aceternity.com/)
 - [ShadCN UI](https://ui.shadcn.com/)
@@ -37,7 +39,7 @@ nextjs-dev-hub/
 - Dev tools for debugging
 
 ## 📌 Contributing
-Want to add more awesome tools? Open a pull request! Contributions are welcome. 
+Want to add more awesome tools? Open a pull request! Contributions are welcome.
 
 ## 📜 License
 This repository is licensed under the [MIT License](LICENSE). Feel free to use and share!

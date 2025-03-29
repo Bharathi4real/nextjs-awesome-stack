@@ -1,18 +1,43 @@
 # UI Libraries & Components
 
-A collection of UI libraries and component resources for React and Next.js developers.
+A collection of UI libraries, icon libraries, and font resources for React and Next.js developers.
+
+---
 
 ## List of UI Libraries
-- [Origin UI](https://originui.com/)
-- [Aceternity UI](https://ui.aceternity.com/)
-- [ShadCN UI](https://ui.shadcn.com/)
-- [DevUI](https://www.devui.in/)
-- [HyperUI](https://www.hyperui.dev/)
-- [Magic UI](https://magicui.design/)
-- [CuiCui](https://cuicui.day/)
-- [React Bits](https://www.reactbits.dev/)
-- [Tailus UI](https://ui.tailus.io/)
-- [Hero UI](https://www.heroui.com/)
+// Popular UI component libraries with pre-built, customizable components
+- [Origin UI](https://originui.com/) – Modern and customizable React components.
+- [Aceternity UI](https://ui.aceternity.com/) – Simple and elegant UI components.
+- [ShadCN UI](https://ui.shadcn.com/) – Minimalist and customizable UI components.
+- [DevUI](https://www.devui.in/) – Beautiful and accessible UI components.
+- [HyperUI](https://www.hyperui.dev/) – Tailwind CSS-based UI components.
+- [Magic UI](https://magicui.design/) – Interactive and animated components.
+- [CuiCui](https://cuicui.day/) – Experimental and creative UI elements.
+- [React Bits](https://www.reactbits.dev/) – Collection of reusable React components.
+- [Tailus UI](https://ui.tailus.io/) – Tailwind-based component library.
+- [Hero UI](https://www.heroui.com/) – Elegant and feature-rich UI components.
+
+---
+
+## List of Icon Libraries
+// Icon sets with various styles and formats (SVG, font icons)
+- [Heroicons](https://heroicons.com/) – Handcrafted SVG icons by the makers of Tailwind CSS.
+- [Lucide](https://lucide.dev/) – Open-source icons with consistent design.
+- [Google Icons](https://fonts.google.com/icons) – Extensive collection of free icons by Google.
+- [Phosphor](https://phosphoricons.com/) – Versatile icon set with multiple styles in SVG format.
+- [Simple Icons](https://simpleicons.org/) – Brand icons with SVG format support.
+
+---
+
+## List of Font Libraries
+// Font resources for web and app design
+- [Google Fonts](https://fonts.google.com/) – Free and widely-used web fonts.
+- [Adobe Fonts](https://fonts.adobe.com/) – Premium font collection (requires Adobe subscription).
+- [Typography.com](https://typography.com/) – Professional-grade fonts with licensing options.
+- [nextjs-fonts](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) – Next.js-specific font optimization guide.
+
+---
 
 ## Contribution
+// Guidelines for contributing to this list
 Want to suggest more UI libraries? Open a pull request!
